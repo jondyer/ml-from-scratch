@@ -8,15 +8,16 @@ For purposes of preventing plagiarism and academic integrity, I have removed a l
 
 This repository is a sampling of work done in a graduate-level statistical machine learning course at CMU. The course focused on mathematical and theoretical foundations of machine learning, so instead of relying on libraries such as PyTorch or TensorFlow, we implemented a variety of algorithms from scratch and explored the strengths and weaknesses of those algorithms through numerous experiments and models.
 
-Algorithms and models implemented (by hand) throughout the course included:
+### Algorithms and models implemented (by hand) throughout the course
 
-- ...a decision tree learner to predict the party of a politician based on their voting history
-- ...an NLP sentiment polarity analyzer using logistic regression to classify movie reviews
-- ...a neural network from scratch to label handwritten digits (reached over 93% accuracy); included designing and writing code for backpropagation, module-based automatic differentiation, and average cross-entropy loss
-- ...a hidden Markov model (HMM) to perform named entity recognition and learn part-of-speech tags on words in a sentence
-- ...a Q-learning (model-free reinforcement learning) algorithm with linear function approximation for beating a simple physics game
+- decision tree learner to predict the party of a politician based on their voting history
+- NLP sentiment polarity analyzer using logistic regression to classify movie reviews
+- neural network to label handwritten digits (reached over 93% accuracy); included designing and writing code for backpropagation, module-based automatic differentiation, and average cross-entropy loss
+- hidden Markov model (HMM) to perform named entity recognition and learn part-of-speech tags on words in a sentence
+- Q-learning (model-free reinforcement learning) algorithm with linear function approximation for beating a simple physics game
+- ...and more!
 
-Theoretical topics included:
+### Theoretical topics
 
 - probability and statistics
 - information theory
