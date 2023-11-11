@@ -2,7 +2,7 @@
 
 ### NOTE: Under construction!
 
-For purposes of preventing plagiarism and academic integrity, I have removed a large number of identifying files and data from this repository. However, I will continue adding back in these details as I find time. For now, the code and blank homework/exams should suffice to give a sense of what the course was like.
+For purposes of academic integrity and preventing plagiarism, I have removed a large number of identifying files and data from this repository. However, I will continue adding back in these details as I find time. For now, the code and blank homework/exams should suffice to give a sense of what the course was like.
 
 ---
 
