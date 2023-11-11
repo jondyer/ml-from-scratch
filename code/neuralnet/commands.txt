@@ -1,0 +1,1 @@
+python neuralnet.py smalltrain.csv smalltest.csv model1train_out.labels model1test_out.labels model1metrics_out.txt 2 4 2 0.1

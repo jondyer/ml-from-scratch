@@ -1,0 +1,6 @@
+Epoch=1 crossentropy(train): [2.18506276]
+Epoch=1 crossentropy(test): [2.18827303]
+Epoch=2 crossentropy(train): [1.90103258]
+Epoch=2 crossentropy(test): [1.91363803]
+error(train): 0.77
+error(test): 0.78
